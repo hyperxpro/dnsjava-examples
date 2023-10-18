@@ -35,7 +35,7 @@ import java.net.InetSocketAddress;
  * <a href="https://datatracker.ietf.org/doc/html/rfc7871">RFC 7871</a>
  *
  */
-public class ECSExample {
+public final class ECSExample {
 
     public static void main(String[] args) throws IOException {
         // Create a new ClientSubnetOption with /24 mask
